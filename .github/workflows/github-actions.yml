@@ -12,4 +12,4 @@ jobs:
 
     - name: Zip output
       run: zip -qq -r screencast_keys.zip screencast_keys
-      working-directory: addons/Screencast-Keys/src
+      working-directory: ./addons/Screencast-Keys/src
