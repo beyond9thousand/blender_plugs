@@ -1,15 +1,13 @@
-name: Zipping plugin folders
+name: Zip Files
 
 on: [push]
 
 jobs:
-  Zipping:
+  zip-files:
     runs-on: ubuntu-latest
     steps:
-
-    - name: Archive to zip
-      uses: montudor/action-zip@v1
-
-    - name: Zip output
-      run: zip -qq -r screencast_keys.zip screencast_keys
-      working-directory: ${{ github.workspace }}/${{ env.PROJECT_PATH }}/addons/Screencast-Keys/src
+      - uses: actions/checkout@v2
+      - uses: vimtor/action-zip@v1
+        with:
+          files: addons/Screencast-Keys/src/screencast_keys
+          dest: screencast_keys.zip
