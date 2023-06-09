@@ -1,5 +1,14 @@
-name: Archive to zip
-uses: montudor/action-zip@latest
+name: Zipping plugin folders
+
+on: [push]
+
+jobs:
+  Zipping:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Archive to zip
+        uses: montudor/action-zip@latest
 
     - name: Zip output
         run: zip -qq -r screencast_keys.zip screencast_keys
