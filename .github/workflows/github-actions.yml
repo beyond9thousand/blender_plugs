@@ -9,7 +9,6 @@ jobs:
       - name: Check
         run: ls -Rla
       - name: Zip
-        uses: actions/checkout@v2
         uses: vimtor/action-zip@v1
         with:
           files: addons/Screencast-Keys/src/screencast_keys/
