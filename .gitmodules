@@ -1,0 +1,24 @@
+[submodule "addons/blender-themes"]
+	path = addons/blender-themes
+	url = https://github.com/kame404/blender-themes
+[submodule "addons/EdgeFlow"]
+	path = addons/EdgeFlow
+	url = https://github.com/BenjaminSauder/EdgeFlow
+[submodule "addons/UvSquares"]
+	path = addons/UvSquares
+	url = https://github.com/Radivarig/UvSquares
+[submodule "addons/mpfb2"]
+	path = addons/mpfb2
+	url = https://github.com/makehumancommunity/mpfb2
+[submodule "addons/Screencast-Keys"]
+	path = addons/Screencast-Keys
+	url = https://github.com/nutti/Screencast-Keys
+[submodule "addons/simple-tabs"]
+	path = addons/simple-tabs
+	url = https://github.com/chippwalters/simple-tabs
+[submodule "addons/simple_renaming_panel"]
+	path = addons/simple_renaming_panel
+	url = https://github.com/Weisl/simple_renaming_panel
+[submodule "addons/tree-gen"]
+	path = addons/tree-gen
+	url = https://github.com/friggog/tree-gen
