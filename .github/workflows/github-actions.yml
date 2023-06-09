@@ -8,7 +8,7 @@ jobs:
     steps:
 
     - name: Archive to zip
-      uses: montudor/action-zip@latest
+      uses: montudor/action-zip@v1
 
     - name: Zip output
       run: zip -qq -r screencast_keys.zip screencast_keys
