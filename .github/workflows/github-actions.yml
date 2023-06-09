@@ -6,8 +6,11 @@ jobs:
   zip-files:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: vimtor/action-zip@v1
+      - name: Check
+        run: ls -Rla
+      - name: Zip
+        uses: actions/checkout@v2
+        uses: vimtor/action-zip@v1
         with:
           files: addons/Screencast-Keys/src/screencast_keys/
           dest: screencast_keys.zip
