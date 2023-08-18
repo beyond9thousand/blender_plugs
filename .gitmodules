@@ -22,3 +22,15 @@
 [submodule "addons/tree-gen"]
 	path = addons/tree-gen
 	url = https://github.com/friggog/tree-gen
+[submodule "addons/ImagePaste"]
+	path = addons/ImagePaste
+	url = https://github.com/b-init/ImagePaste
+[submodule "addons/BlenRig"]
+	path = addons/BlenRig
+	url = https://github.com/jpbouza/BlenRig
+[submodule "addons/VRM-Addon-for-Blender"]
+	path = addons/VRM-Addon-for-Blender
+	url = https://github.com/saturday06/VRM-Addon-for-Blender
+[submodule "addons/blenderkit"]
+	path = addons/blenderkit
+	url = https://github.com/BlenderKit/blenderkit
