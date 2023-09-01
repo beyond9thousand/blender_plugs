@@ -34,3 +34,6 @@
 [submodule "addons/blenderkit"]
 	path = addons/blenderkit
 	url = https://github.com/BlenderKit/blenderkit
+[submodule "addons/boneWidget"]
+	path = addons/boneWidget
+	url = https://github.com/waylow/boneWidget
