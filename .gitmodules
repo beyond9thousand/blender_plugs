@@ -37,3 +37,9 @@
 [submodule "addons/boneWidget"]
 	path = addons/boneWidget
 	url = https://github.com/waylow/boneWidget
+[submodule "addons/TexTools-Blender"]
+	path = addons/TexTools-Blender
+	url = https://github.com/SavMartin/TexTools-Blender
+[submodule "addons/blender-loom"]
+	path = addons/blender-loom
+	url = https://github.com/p2or/blender-loom
