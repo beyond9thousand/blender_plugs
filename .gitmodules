@@ -43,6 +43,3 @@
 [submodule "addons/blender-loom"]
 	path = addons/blender-loom
 	url = https://github.com/p2or/blender-loom
-[submodule "addons/blender-drag-and-drop"]
-	path = addons/blender-drag-and-drop
-	url = https://github.com/mika-f/blender-drag-and-drop
