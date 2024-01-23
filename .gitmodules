@@ -40,6 +40,6 @@
 [submodule "addons/blender-loom"]
 	path = addons/blender-loom
 	url = https://github.com/p2or/blender-loom
-[submodule "dynamic_parent"]
-	path = dynamic_parent
+[submodule "addons/dynamic_parent"]
+	path = addons/dynamic_parent
 	url = https://github.com/romanvolodin/dynamic_parent
