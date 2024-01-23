@@ -4,9 +4,6 @@
 [submodule "addons/EdgeFlow"]
 	path = addons/EdgeFlow
 	url = https://github.com/BenjaminSauder/EdgeFlow
-[submodule "addons/UvSquares"]
-	path = addons/UvSquares
-	url = https://github.com/Radivarig/UvSquares
 [submodule "addons/mpfb2"]
 	path = addons/mpfb2
 	url = https://github.com/makehumancommunity/mpfb2
@@ -43,3 +40,6 @@
 [submodule "addons/blender-loom"]
 	path = addons/blender-loom
 	url = https://github.com/p2or/blender-loom
+[submodule "dynamic_parent"]
+	path = dynamic_parent
+	url = https://github.com/romanvolodin/dynamic_parent
