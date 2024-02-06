@@ -46,3 +46,9 @@
 [submodule "addons/SuperProjectManager"]
 	path = addons/SuperProjectManager
 	url = https://github.com/PidgeonTools/SuperProjectManager
+[submodule "addons/retopoflow"]
+	path = addons/retopoflow
+	url = https://github.com/CGCookie/retopoflow
+[submodule "addons/blender-plugin"]
+	path = addons/blender-plugin
+	url = https://github.com/sketchfab/blender-plugin
