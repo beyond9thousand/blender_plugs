@@ -52,3 +52,6 @@
 [submodule "addons/blender-plugin"]
 	path = addons/blender-plugin
 	url = https://github.com/sketchfab/blender-plugin
+[submodule "addons/animaide"]
+	path = addons/animaide
+	url = https://github.com/aresdevo/animaide
