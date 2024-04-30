@@ -55,6 +55,3 @@
 [submodule "addons/animaide"]
 	path = addons/animaide
 	url = https://github.com/aresdevo/animaide
-[submodule "addons/Gaffer"]
-	path = addons/Gaffer
-	url = https://github.com/gregzaal/Gaffer
