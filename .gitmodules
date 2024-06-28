@@ -52,3 +52,6 @@
 [submodule "addons/animaide"]
 	path = addons/animaide
 	url = https://github.com/aresdevo/animaide
+[submodule "addons/UvSquares"]
+	path = addons/UvSquares
+	url = https://github.com/Radivarig/UvSquares
