@@ -55,3 +55,6 @@
 [submodule "addons/UvSquares"]
 	path = addons/UvSquares
 	url = https://github.com/Radivarig/UvSquares
+[submodule "addons/nd"]
+	path = addons/nd
+	url = https://github.com/hugemenace/nd
